@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+outputs/models/
+outputs/emb_*.npy
+outputs/split_*.parquet
+outputs/run_*.log
+outputs/run_*.err
+outputs/bench/
+.venv/
+venv/
